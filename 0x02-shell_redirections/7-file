@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+
+# Create the file
+
+touch '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+
+
+
+# Write the text to the file
+
+echo "Best School" > '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+
+
+
+# Append a new line to the file
+
+echo >> '*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+
+
